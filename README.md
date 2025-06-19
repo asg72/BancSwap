@@ -1,5 +1,3 @@
-# BancSwap
-
 # 🚀 BancSwap
 
 <div align="center">
