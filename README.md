@@ -172,12 +172,10 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+   
+## Contract Details : 0xca018d7abb01bfcd634f65653cae06bdbe170e36c5ae37088dc94170f0eabe33
+![image](https://github.com/user-attachments/assets/dcc7f4f5-342e-4a27-bda0-c7eed2f93f52)
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
 
 <div align="center">
 
